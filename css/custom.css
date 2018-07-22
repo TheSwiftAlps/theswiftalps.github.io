@@ -1,0 +1,26 @@
+.bg-secondary-1, .primary-features {
+    background-color: #E93742 !important;
+}
+
+.bg-secondary-1 a {
+    color: black;
+}
+
+.pricing-table {
+    border-right: 2px solid rgba(255, 255, 255, 0.2) !important;
+}
+
+.tito-tickets-button {
+    background: transparent;
+    border: none;
+    padding: 0;
+}
+
+#tickets a {
+    color: #ccc;
+    font-weight: bold;
+}
+
+#tickets a:HOVER {
+    text-decoration: underline;
+}
